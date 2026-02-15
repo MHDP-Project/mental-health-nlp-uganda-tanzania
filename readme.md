@@ -1,4 +1,4 @@
-# NLP for Mental Health Call Centers in East Africa
+# NLP for Mental Health Call Centers in Uganda and Tanzania.
 
 Developing speech recognition and NLP tools for mental health telephone services in East Africa, supporting English, Luganda, and Swahili.
 
