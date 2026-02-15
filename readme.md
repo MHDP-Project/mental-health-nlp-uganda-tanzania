@@ -51,4 +51,4 @@ Approval will also be sought from Mirembe Mental Hospital REC in Tanzania. All d
 ## Related Publications
 
 - Kabukye JK, et al. (2024). Implementing a Hospital Call Center Service for Mental Health in Uganda: User-Centered Design Approach. *JMIR Human Factors*. [Link](https://pubmed.ncbi.nlm.nih.gov/38843515/)
-- Nakatumba-Nabende J, et al. (2024). Building Text and Speech Benchmark Datasets and Models for Low-Resourced East African Languages. *Applied AI Letters*.
+- Nakatumba-Nabende J, et al. (2024). Building Text and Speech Benchmark Datasets and Models for Low-Resourced East African Languages. *Applied AI Letters*. [Link](https://doi.org/10.1002/ail2.92)
